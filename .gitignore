@@ -2,7 +2,7 @@
 node_modules/
 
 # 打包输出
-dist/
+# dist/
 build/
 
 # 个人配置
@@ -15,12 +15,12 @@ yarn-error.log*
 
 # 系统文件
 .DS_Store
-Thumbs.db
+# Thumbs.db
 
 # 其他临时或自动生成文件夹
-assets/
-locales/
-jianyin/
-public/
-test.html
-package-lock.json
+# assets/
+# locales/
+# jianyin/
+# public/
+# test.html
+# package-lock.json
