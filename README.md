@@ -1,2 +1,2 @@
 ﻿# jianyin_agent
-剪映小助手代码
+速推AIGC剪映小助手代码
